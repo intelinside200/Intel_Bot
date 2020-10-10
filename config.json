@@ -1,4 +1,5 @@
 {
     "prefix": "intel_pls_",
     "token": ""
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
